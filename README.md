@@ -13,9 +13,9 @@ Data for a project focused on accuracy development in L2 Spanish preterit-imperf
 | Modality  | Spoken or written- the modality in which the text was produced.  |
 | Token  | The token (form) produced.  |
 | Infinitive  | The infinitive of the token produced.  |
-| Appropriate, Ambiguous, Inappropriate  | In these cells, we marked a '1' if the tense-aspect use in question met the classification of appropriate, inappropriatem or ambiguous (i.e., we were unable to determine its appropriateness).  |
+| Appropriate, Ambiguous, Inappropriate  | In these cells, we marked a '1' to classify the tense-aspect use in question as appropriate, inappropriate or ambiguous (i.e., we were unable to determine its appropriateness).  |
 | Form  | The tense-aspect classification of the token produced.  |
-| Obligatory_form  | The tense-aspect classification of what should have been produced in that context (i.e., what is obligatory.  |
+| Obligatory_form  | The tense-aspect classification of what should have been produced in that context (i.e., what is obligatory for suppliance).  |
 | Form_simplified  | Same as 'Form,' but with only 4 levels: preterit, imperfect, present, or other. |
 | Obligatory_form_simplified  | Same as 'Obligatory_form,' but with only 4 levels: preterit, imperfect, present, or other.  |
 | Frequency  | The log-transformed, summed token frequencies of all preterit and imperfect forms of each lemma. Frequency data was extracted from the EsPal corpus (Duchon et al., 2013).  |
