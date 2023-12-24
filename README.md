@@ -12,7 +12,7 @@ Data for a project focused on accuracy development in L2 Spanish preterit-imperf
 | Proficiency  | The Spanish proficiency level of the participants.  |
 | Modality  | Spoken or written- the modality in which the text was produced.  |
 | Token  | The token (form) produced.  |
-| Infinitive  | The infinitive of the token produced.  |
+| Lemma  | The lemma of the token produced.  |
 | Appropriate, Ambiguous, Inappropriate  | In these cells, we marked a '1' to classify the tense-aspect use in question as appropriate, inappropriate or ambiguous (i.e., we were unable to determine its appropriateness).  |
 | Marked_form  | The tense-aspect classification of the token produced.  |
 | Obligatory_form  | The tense-aspect classification of what should have been produced in that context (i.e., what is obligatory for suppliance).  |
