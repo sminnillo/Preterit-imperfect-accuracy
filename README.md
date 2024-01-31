@@ -23,5 +23,5 @@ Data for a project focused on accuracy development in L2 Spanish preterit-imperf
 
 ## Citation
 
-Minnillo, S., Sánchez-Gutiérrez, C., Ruiz, A., Morgan, E. & González, C. (in press).
-Predictors of accuracy in L2 Spanish preterit-imperfect production. *International Journal of Learner Corpus Research.*
+Minnillo, S., Sánchez-Gutiérrez, C., Ruiz, A., Morgan, E. & González, C. (2024).
+Predictors of accuracy in L2 Spanish preterit-imperfect production. *International Journal of Learner Corpus Research*, *10*(2).
